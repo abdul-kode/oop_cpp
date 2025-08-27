@@ -48,6 +48,4 @@ int main () {
         cout<<current->val<<endl;
         current = current->next;
     }
-
-
 }
